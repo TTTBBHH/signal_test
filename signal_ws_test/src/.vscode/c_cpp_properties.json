@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/opt/ros/melodic/include/**",
+                "/home/tbh/signal_ws_test/src/signal/include/**",
+                "/usr/include/**",
+                "/opt/ros/melodic/include",
+                "/home/tbh/signal_ws_test/devel/include"
+            ],
+            "name": "ROS"
+        }
+    ],
+    "version": 4
+}

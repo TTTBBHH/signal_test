@@ -1,0 +1,4 @@
+<launch>
+     <node name="view_node" pkg="signal"  type="view_node" output="screen"/>
+     <node name="signal_node" pkg="signal"  type="signal_node" output="screen"/>
+</launch>
