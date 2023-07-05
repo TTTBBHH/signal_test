@@ -1,0 +1,10 @@
+green: 30            #greenlight time of straight lane
+yellow: 3            #yellowlight time of straight lane
+S: 100               #target detection distance (m)
+red1: 30             # redlight time of  straight lane
+
+
+
+
+
+

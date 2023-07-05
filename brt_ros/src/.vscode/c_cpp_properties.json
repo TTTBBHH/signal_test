@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/cqjtu/Documents/catktin_ros/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/cqjtu/Documents/catktin_ros/src/detect/include/**",
+        "/home/cqjtu/Documents/catktin_ros/src/fusion/include/**",
+        "/home/cqjtu/Documents/catktin_ros/src/lidar_cluster/include/**",
+        "/home/cqjtu/Documents/catktin_ros/src/signal/include/**",
+        "/home/cqjtu/Documents/catktin_ros/src/tracker/include/**",
+        "/home/cqjtu/Documents/catktin_ros/src/visualizer/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

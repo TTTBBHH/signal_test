@@ -1,0 +1,4 @@
+Log file created at: 2023/06/08 09:40:52
+Running on machine: tbh-Lenovo-Legion-Y7000-1060
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0608 09:40:52.400097 24331 signal_flow.cpp:67] -BRT车道(南北)绿灯 30
